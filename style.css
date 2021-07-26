@@ -1,6 +1,12 @@
 .container{
     margin-bottom: 100px;
 }
+.bg-white{
+    color: white;
+}
+.body{
+    color: grey;
+}
 
 
 .product img{
@@ -9,7 +15,12 @@
 .card-body{
     text-align: center;
 }
-
+span{
+    color: orange;
+}
+.carouselExampleIndicators{
+    color: orange;
+}
 
 
 
