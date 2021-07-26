@@ -1,0 +1,33 @@
+.container{
+    margin-bottom: 100px;
+}
+
+
+.product img{
+    width: 300px;
+}
+.card-body{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+.buy-now-btn{
+background-color: black;
+    color: white;
+    padding: 9px 25px;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+   
+
+
