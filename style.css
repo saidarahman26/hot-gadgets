@@ -21,8 +21,21 @@ span{
 .carouselExampleIndicators{
     color: orange;
 }
-
-
+.footer p{
+    text-align: center;
+    font-size: 8px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 5px;
+}
+.cat{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 4px;
+    padding: 10px 20px;
+}
 
 
 
