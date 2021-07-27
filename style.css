@@ -35,7 +35,13 @@ span{
     box-shadow: 5px 5px 10px lightgrey;
     border-radius: 4px;
     padding: 10px 20px;
+    
 }
+.cat img{
+    width: 100%;
+}
+    
+
 
 
 
